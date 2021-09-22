@@ -1,0 +1,3 @@
+# Rating Chrome Extension
+
+## Introduction
